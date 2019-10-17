@@ -1,2 +1,2 @@
-# In-Progress-Assignments
-Assignments that are unfinished
+# Coin Game
+Written in Java
